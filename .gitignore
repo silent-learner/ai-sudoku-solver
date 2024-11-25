@@ -1,0 +1,4 @@
+sudoku model.ipynb
+digits/
+*.npy
+*.h5.keras
