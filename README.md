@@ -3,6 +3,9 @@
 
 This project is a computer vision-based Sudoku Solver that uses a Convolutional Neural Network (CNN) to identify and solve puzzles from uploaded images. The application is built with Streamlit, providing an intuitive web interface where users can upload unsolved Sudoku images, view the solutions, and download the solved puzzles.
 
+## Live Demo
+[App Link](https://ai-sudoku-solver-cs725.streamlit.app/)
+
 ## Features
 
 - **Image Upload**: Users can upload images of unsolved Sudoku puzzles.
